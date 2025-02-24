@@ -2,7 +2,7 @@
 
 # Analysis of Campaign Performance Using SQL
 
-# Table of contents
+## Table of contents
 - [Introduction](#Introduction)
 - [Objectives](#Objectives)
 - [Tools](#Tools)
@@ -12,7 +12,7 @@
 - [Analysis & Query Writing](Analysis-&-Query-Writing)
 - [Conclusion](Conclusion)
 
-Introduction
+## Introduction
 In the competitive landscape of digital marketing, companies are increasingly 
 leveraging data to fine-tune their advertising strategies and maximize their return 
 on investment (ROI). This report explores the performance of digital advertising 
@@ -24,7 +24,7 @@ identifying high-performing channels, and determining the most cost-effective
 campaigns.
 
 
-Objectives
+## Objectives
 1. To familiarize with the dataset, review its structure, and identify key 
 variables crucial for analyzing digital marketing campaigns.
 2. To calculate essential metrics like click-through rates (CTR), total 
@@ -41,14 +41,14 @@ optimal budget allocation and maximize returns.
 enhance future digital marketing strategies.
 
 
-Tools
+## Tools
 The following tools were used for data retrieval, analysis, and documentation:
 • Microsoft Excel for storing the dataset
 • PostgreSQL for SQL query execution.
 • Google Drive for storing SQL scripts and reports.
 
 
-Data Source:
+## Data Source
 As part of my internship at HNG, I was supplied with a Marketing Campaign 
 Dataset in CSV format. To better understand the data, I first loaded it into SQL for 
 exploration and analysis. This step allowed me to familiarize myself with the 
@@ -57,14 +57,14 @@ of my analysis is to extract actionable insights that will guide stakeholders in
 optimizing their marketing strategies and ad spend.
 
 
-Data Understanding:
+## Data Understanding
 Firstly I had to create a table in PostgreSQL called campaigndata to house my data 
 and define the data types for the columns.
 
-![Create a table called](Create-tabel)
+![Create a table called](Create-tabel.png)
 
 Then I imported the data in SQL.
-![Importing the data in PostGreSQL](import-data)
+![Importing the data in PostGreSQL](import-data.png)
 
 After that, I had to review and inspect the dataset structure to understand 
 available fields and data types and ensure that the data types (e.g., numeric, text, 
@@ -99,7 +99,7 @@ the campaign (e.g., 6, 7, 10).
 campaign (e.g., Health & Wellness, Fashionistas).
 
 
-The key variables I’ll be focusing on for my analysis are:
+### The key variables I’ll be focusing on for my analysis are
 1. Impressions (Integer):
 o Represents the number of times an ad is shown to users. This is essential 
 for calculating metrics like CTR (Click-Through Rate) and evaluating the 
@@ -121,7 +121,7 @@ Analyzing ROI is essential for understanding the profitability of
 campaigns.
 
 
-Analysis & Query Writing
+## Analysis & Query Writing
 The following are questions that will guide my analysis and how I use SQL to 
 extract insights from my data:
 1. Calculate Total Impressions for Each Campaign
@@ -134,6 +134,7 @@ GROUP BY campaign_id
 ORDER BY totalimpressions DESC;
 ```
 
+###### example of how to create a table:
 |col1 | col 2 | col3 |
 |---| --- | --- |
 | product 1| product 3| product 3|
