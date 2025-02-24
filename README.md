@@ -65,7 +65,7 @@ CREATE TABLE IF NOT EXISTS campaigndata
 ![Create a table called](https://github.com/AreJohn/absenteeism/blob/main/assets/images/Create%20table%20picture.PNG)
 
 ###### Then I imported the csv data in SQL.
-![Importing the data in PostGreSQL](assets/images/import-data.png)
+![Importing the data in PostGreSQL](https://github.com/AreJohn/absenteeism/blob/main/assets/images/import%20data.PNG)
 
 ###### After that, I had to review and inspect the dataset structure to understand available fields and data types and ensure that the data types (e.g., numeric, text, date) are appropriate for analysis.
 
