@@ -223,7 +223,7 @@ GROUP BY channel_used
 ORDER BY totalconversions DESC;
 ```
 
-[Output 8](https://github.com/AreJohn/absenteeism/blob/main/assets/images/8%20output.png)
+[Output 8](https://github.com/AreJohn/absenteeism/blob/main/assets/images/output8.png)
 
 ###### Email has the highest number of total conversions (1,485,393.65) and is ranked 1st. Website and Google Ads have very similar total conversions and are ranked 2nd and 3rd, respectively. YouTube and Instagram also have close total conversion numbers and are ranked 4th and 5th. Facebook has the lowest number of conversions among the displayed channels and is ranked 6th. Email, Website, and Google Ads are the most effective channels for driving conversions.
 
