@@ -20,7 +20,8 @@ In the competitive landscape of digital marketing, companies are increasingly le
 ##### 2. To calculate essential metrics like click-through rates (CTR), total impressions, conversions, and cost per conversion, allowing for performance evaluation.
 ##### 3. To rank campaigns by their effectiveness, focusing on ROI, conversion rates, and engagement scores to determine the most successful campaigns.
 ##### 4. To identify the top-performing channels by analyzing total conversions and impressions, providing a clear understanding of the most effective advertising platforms.
-##### 5. To evaluate and compare the cost-effectiveness of campaigns to ensure optimal budget allocation and maximize returns.##### 6. To provide actionable recommendations based on the data analysis to enhance future digital marketing strategies.
+##### 5. To evaluate and compare the cost-effectiveness of campaigns to ensure optimal budget allocation and maximize returns.
+##### 6. To provide actionable recommendations based on the data analysis to enhance future digital marketing strategies.
 
 
 ## Tools
