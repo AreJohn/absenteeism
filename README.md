@@ -121,7 +121,7 @@ GROUP BY campaign_id
 ORDER BY totalimpressions DESC;
 ```
 
-[Output1](https://github.com/AreJohn/absenteeism/blob/main/assets/images/1%20output.png)
+![Output1](https://github.com/AreJohn/absenteeism/blob/main/assets/images/1_output.png)
 
 ###### There were 200,005 campaigns that were run in the data, that’s a lot of campaigns and 10,000 impressions was the highest impressions gotten.
 
@@ -151,7 +151,7 @@ ORDER BY totalimpressions DESC
 LIMIT 3;
 ```
 
-[Output 3](https://github.com/AreJohn/absenteeism/blob/main/assets/images/3%20output.png)
+![Output 3](https://github.com/AreJohn/absenteeism/blob/main/assets/images/3%20output.png)
 
 ###### New York is the location with the highest Impressions at 221.35 million impressions followed by Miami with 221.34 million impressions and Chicago is the least of the top 3 locations with 219 million impressions.
 
@@ -164,7 +164,7 @@ GROUP BY target_audience
 ORDER BY avgengagementscore DESC
 ```
 
-[Output4](https://github.com/AreJohn/absenteeism/blob/main/assets/images/4%20output.png)
+![Output4](https://github.com/AreJohn/absenteeism/blob/main/assets/images/4%20output.png)
 
 ###### On average, Men between 18-24 have the highest average engagement score (5.5150), meaning they interact the most with the marketing campaigns. Women between 25-34 come next with an engagement score of 5.4927, closely followed by Men 25-34 at 5.4918. All other ###### age groups have an engagement score of 5.4868, suggesting that the overall audience has a relatively high interaction rate. Women between 35-44 have the lowest engagement score among the top five, at 5.4865, but the difference between groups is minimal
 
@@ -191,7 +191,7 @@ FROM campaigndata
 ORDER BY costperconversion ASC;
 ```
 
-[Output 6](https://github.com/AreJohn/absenteeism/blob/main/assets/images/6%20output.png)
+![Output 6](https://github.com/AreJohn/absenteeism/blob/main/assets/images/6%20output.png)
 
 ###### Campaign with id 118451 from Alpha Innovations has the lowest cost per conversion at $34.22 which makes it thee most cost effective campaign. This means that for every successful conversion, Alpha Innovations spent approximately $34.22, making it the most efficient campaign. Alpha Innovations has three campaigns in the top six most cost-effective campaigns, 3 of the campaigns they ran were among the most cost effective.
 
@@ -208,7 +208,7 @@ HAVING (SUM(clicks) * 100.0) / SUM(impressions) > 5
 ORDER BY ctr DESC;
 ```
 
-[Output 7](https://github.com/AreJohn/absenteeism/blob/main/assets/images/7%20output.png)
+![Output 7](https://github.com/AreJohn/absenteeism/blob/main/assets/images/7%20output.png)
 
 ###### Campiagn with id 123375 had the highest click through rate at 99.2%. The top 10 campaigns shown have extremely high CTRs, ranging from 99.2% down to 96.9%. This suggests that these campaigns were very effective at getting people to click. TechCorp appear 2 times and Alpha Innovations appear 3 times in the top 10, indicating they are running highly effective campaigns that generate high click-through rates.
 
@@ -223,7 +223,7 @@ GROUP BY channel_used
 ORDER BY totalconversions DESC;
 ```
 
-[Output 8](https://github.com/AreJohn/absenteeism/blob/main/assets/images/output8.png)
+![Output 8](https://github.com/AreJohn/absenteeism/blob/main/assets/images/output8.png)
 
 ###### Email has the highest number of total conversions (1,485,393.65) and is ranked 1st. Website and Google Ads have very similar total conversions and are ranked 2nd and 3rd, respectively. YouTube and Instagram also have close total conversion numbers and are ranked 4th and 5th. Facebook has the lowest number of conversions among the displayed channels and is ranked 6th. Email, Website, and Google Ads are the most effective channels for driving conversions.
 
