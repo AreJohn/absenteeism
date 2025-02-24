@@ -25,19 +25,19 @@ campaigns.
 
 
 ## Objectives
-1. To familiarize with the dataset, review its structure, and identify key 
+##### 1. To familiarize with the dataset, review its structure, and identify key 
 variables crucial for analyzing digital marketing campaigns.
-2. To calculate essential metrics like click-through rates (CTR), total 
+##### 2. To calculate essential metrics like click-through rates (CTR), total 
 impressions, conversions, and cost per conversion, allowing for 
 performance evaluation.
-3. To rank campaigns by their effectiveness, focusing on ROI, conversion rates, 
+##### 3. To rank campaigns by their effectiveness, focusing on ROI, conversion rates, 
 and engagement scores to determine the most successful campaigns.
-4. To identify the top-performing channels by analyzing total conversions and 
+##### 4. To identify the top-performing channels by analyzing total conversions and 
 impressions, providing a clear understanding of the most effective 
 advertising platforms.
-5. To evaluate and compare the cost-effectiveness of campaigns to ensure 
+##### 5. To evaluate and compare the cost-effectiveness of campaigns to ensure 
 optimal budget allocation and maximize returns.
-6. To provide actionable recommendations based on the data analysis to 
+##### 6. To provide actionable recommendations based on the data analysis to 
 enhance future digital marketing strategies.
 
 
@@ -61,10 +61,10 @@ optimizing their marketing strategies and ad spend.
 Firstly I had to create a table in PostgreSQL called campaigndata to house my data 
 and define the data types for the columns.
 
-![Create a table called](Create-tabel.png)
+![Create a table called](assets/images/Create-tabel.png)
 
 Then I imported the data in SQL.
-![Importing the data in PostGreSQL](import-data.png)
+![Importing the data in PostGreSQL](assets/images/import-data.png)
 
 After that, I had to review and inspect the dataset structure to understand 
 available fields and data types and ensure that the data types (e.g., numeric, text, 
@@ -200,7 +200,7 @@ Email, Website, and Google Ads are the most effective channels for driving
 conversions.
 
 
-Conclusion
+## Conclusion
 1. The analysis of the 200,005 campaigns provides valuable insights into the 
 effectiveness of various digital marketing efforts.
 
