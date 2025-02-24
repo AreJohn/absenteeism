@@ -237,10 +237,10 @@ ORDER BY totalconversions DESC;
 
 ###### 4. Engagement trends revealed that men aged 18-24 had the highest interaction with ads, closely followed by women aged 25-34. Overall, the audience engagement scores were consistently high across all age groups.
 
-###### 5. The overall ClickThrough Rate (CTR) stood at 9.98%, significantly exceeding industry averages, highlighting strong user interest in the ads.
+###### 5. The overall ClickThrough Rate (CTR) stood at 9.98%, significantly exceeding industry averages, highlighting strong user interest in the ads.
 
 ###### 6. Cost-effectiveness analysis identified Alpha Innovations as the top performer, with a cost per conversion of $34.22. Additionally, TechCorp and Alpha Innovations ran some of the highest CTR campaigns, exceeding 96.9%, proving their ability to drive clicks effectively.
 
-###### 7. Finally, Email emerged as the top channel for conversions, followed by Website and Google Ads, emphasizing the importance of direct marketing and searchdriven strategies. Facebook, while ranking lowest in conversions, still played a role in the overall digital marketing mix.
+###### 7. Finally, Email emerged as the top channel for conversions, followed by Website and Google Ads, emphasizing the importance of direct marketing and search driven strategies. Facebook, while ranking lowest in conversions, still played a role in the overall digital marketing mix.
 
 ###### These insights offer a strategic direction for optimizing future campaigns by prioritizing high-performing channels, refining audience targeting, and leveraging cost-efficient strategies to maximize ROI and engagement.
