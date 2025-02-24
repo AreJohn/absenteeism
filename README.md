@@ -61,7 +61,7 @@ optimizing their marketing strategies and ad spend.
 Firstly I had to create a table in PostgreSQL called campaigndata to house my data 
 and define the data types for the columns.
 
-![Create a table called]([assets/images/Create-tabel.png](https://github.com/AreJohn/absenteeism/blob/main/assets/images/Create%20table.PNG))
+![Create a table called](https://github.com/AreJohn/absenteeism/blob/main/assets/images/Create%20table.PNG)
 
 Then I imported the data in SQL.
 ![Importing the data in PostGreSQL](assets/images/import-data.png)
